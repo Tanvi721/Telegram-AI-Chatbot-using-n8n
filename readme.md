@@ -44,12 +44,12 @@ Telegram Trigger  →  AI Agent (OpenAI Chat Model)  →  Send Telegram Message
 ## 📸 Screenshots
 
 ### n8n Workflow
+<img width="1920" height="825" alt="image" src="https://github.com/user-attachments/assets/546cbf6c-816e-49aa-ae91-939ecc1792c2" />
 
-*Add screenshot of your n8n workflow here*
 
 ### Telegram Bot Chat
+<img width="1288" height="916" alt="image" src="https://github.com/user-attachments/assets/ed19c1e1-b0fe-4d4d-8b8a-e42092133db3" />
 
-*Add screenshot of Telegram conversation here*
 
 ---
 
