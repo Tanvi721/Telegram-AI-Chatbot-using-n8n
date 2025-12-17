@@ -50,6 +50,11 @@ Telegram Trigger  →  AI Agent (OpenAI Chat Model)  →  Send Telegram Message
 ### Telegram Bot Chat
 <img width="1288" height="916" alt="image" src="https://github.com/user-attachments/assets/ed19c1e1-b0fe-4d4d-8b8a-e42092133db3" />
 
+![WhatsApp Image 2025-12-17 at 9 55 23 PM](https://github.com/user-attachments/assets/1208a205-450c-48a9-a364-78dc0fa129e7)
+
+![WhatsApp Image 2025-12-17 at 9 55 23 PM (1)](https://github.com/user-attachments/assets/aa45b3cd-dac5-4cb1-b584-0f3ae5904592)
+
+
 
 ---
 
